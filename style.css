@@ -74,7 +74,7 @@ a {
   border-radius: 10px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
   .toggle-button {
     display: flex;
   }
@@ -266,7 +266,7 @@ footer {
   transition: all 0.3s;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 400px) {
   .container {
     max-width: 350px;
   }
